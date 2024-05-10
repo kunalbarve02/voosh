@@ -46,4 +46,5 @@ Steps to use APIs
 1. Register a User
 2. Copy the token and id from response click on the name of collection i.e Voosh->variables paste your token and id in token and currentUser variables.
 3. Go to https://voosh-8ufw.onrender.com/api/auth/google to use Google Signin (copy id and token and paste them in playground variables as mentioned in step 2)
-4. Checkout all APIs!
+4. use following credentials to get admin access - username:newuser password:Password
+5. Checkout all APIs!
