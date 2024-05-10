@@ -64,6 +64,6 @@ router.get('/auth/google', (req, res) => {
 
 router.get('/auth/google/callback', googleSignin);
 
-router.post('/auth/google/signout', isSignedIn, googleSignout);
+router.post('/auth/signout', isSignedIn, googleSignout);
 
 module.exports = router;
